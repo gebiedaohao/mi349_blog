@@ -1,0 +1,21 @@
+﻿html{ background:#e3e3e3;}
+body 
+{
+    font-family:Arial,sans-serif;
+    margin:40px;
+    padding:40px;
+    color:#242424;
+    border-top:10px solid #242424;
+    background:#fff;
+} 
+ul,li{ list-style:none;}
+h1{ font-size:3em; margin:0;}
+p{ line-height:1.4em; }
+#hobbies{ border-top:1px dotted #ccc;}
+.list{ border-bottom:1px dotted #ccc;}
+footer{ background:#000; text-align:center; line-height:40px; }
+footer p{ color:#fff; text-align:center; margin:10px; }
+aside{ position:sticky; top:50px; left:50px; } 
+main section{ display:flex;}
+.img1{ float:left; margin:20px;}
+.img2{ float:right; margin:20px;}
